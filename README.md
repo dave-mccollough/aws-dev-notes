@@ -8,4 +8,4 @@
 #### Resources
 - [A Cloud Guru](https://acloudguru.com)
 - [AWS Documentation](https://docs.aws.amazon.com/)
-- [Whizlabs] (https://www.whizlabs.com/)
+- [Whizlabs](https://www.whizlabs.com/)
