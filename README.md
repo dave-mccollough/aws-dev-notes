@@ -3,6 +3,7 @@
 #### Study notes for the AWS Developer Certification exam.
 - [IAM](https://github.com/dave-mccollough/aws-dev-notes/blob/main/IAM.md)
 - [EC2](https://github.com/dave-mccollough/aws-dev-notes/blob/main/EC2.md)
+- [EBS](https://github.com/dave-mccollough/aws-dev-notes/blob/main/EBS.md)
 
 #### Exam scheduled 3/6/2021
 
