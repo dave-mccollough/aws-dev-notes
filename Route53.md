@@ -8,4 +8,3 @@
   - EC2 Instances
   - Load Balancers
   - S3 Buckets
-  - 
