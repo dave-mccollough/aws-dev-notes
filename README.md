@@ -4,6 +4,8 @@
 - [IAM](https://github.com/dave-mccollough/aws-dev-notes/blob/main/IAM.md)
 - [EC2](https://github.com/dave-mccollough/aws-dev-notes/blob/main/EC2.md)
 - [EBS](https://github.com/dave-mccollough/aws-dev-notes/blob/main/EBS.md)
+- [ELB](https://github.com/dave-mccollough/aws-dev-notes/blob/main/ELB.md)
+- [Route 53](https://github.com/dave-mccollough/aws-dev-notes/blob/main/Route53.md)
 
 #### Exam scheduled 3/6/2021
 
