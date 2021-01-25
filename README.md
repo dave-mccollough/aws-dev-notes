@@ -6,6 +6,7 @@
 - [EBS](https://github.com/dave-mccollough/aws-dev-notes/blob/main/EBS.md)
 - [ELB](https://github.com/dave-mccollough/aws-dev-notes/blob/main/ELB.md)
 - [Route 53](https://github.com/dave-mccollough/aws-dev-notes/blob/main/Route53.md)
+- [AWS CLI](https://github.com/dave-mccollough/aws-dev-notes/blob/main/AWS-CLI.md)
 
 #### Exam scheduled 3/6/2021
 
