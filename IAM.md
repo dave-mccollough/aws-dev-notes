@@ -5,7 +5,7 @@
 - Centralized control of your AWS Account
 - Shared access to your AWS Account
 - Granualar Permissions
-- Identity Federation
+- Identity Federation (Active Directory, Facebook, LinkedIn)
 - Multifactor Authentication
 - Allows you to provide temporary access to users, devices, and services as necessary
 - Allows you to setup a password rotation policy
@@ -14,7 +14,7 @@
 
 #### Terms
 
-- Users
+- Users - End users
 - Groups - Collection of users
 - Roles - Created and assigned to AWS resources
 - Policy Documents - JSON document that defines one or more permissions.  Can be attached to user, group or role
@@ -28,7 +28,7 @@ https://policysim.aws.amazon.com
 
 #### Other Notes
 - IAM is Universal
-- The root account is simply the account created when you first setup your AWS account - Provides omplete access
+- The root account is simply the account created when you first setup your AWS account - Provides complete access to all AWS services
 - New users have no permissions when they are first created
 - New users are assinged a **Access Key ID**  and **Secret Access Keys** when they are created.
     - These are not the same as the password and you cannot use them to login to the AWS console
