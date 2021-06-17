@@ -8,7 +8,7 @@
 - [Route 53](https://github.com/dave-mccollough/aws-dev-notes/blob/main/Route53.md)
 - [AWS CLI](https://github.com/dave-mccollough/aws-dev-notes/blob/main/AWS-CLI.md)
 
-#### Exam scheduled for May 29, 2021
+#### Exam scheduled for July 17, 2021
 
 #### Resources
 - [A Cloud Guru](https://acloudguru.com)
